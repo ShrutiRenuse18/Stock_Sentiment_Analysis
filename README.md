@@ -11,5 +11,4 @@ __Features__
 2) Stock Price Prediction: Predicts whether stock prices increased or decreased based on the sentiment analysis of news articles.
    
 3) Data Visualization: Provides visualizations to better understand the relationship between news sentiment and stock price movements.
-Using nlp, the Stock Sentiment Analyzer assists in determining
-if the stock prices increased or fell in response to the news headlines.
+
